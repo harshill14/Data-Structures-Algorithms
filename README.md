@@ -9,3 +9,6 @@ My Name is Harshil Patel, and in this repository, you will see all of my project
 3. Trie
 4. Little Search Engine
 5. Friends
+
+
+Please follow both [Rutgers University's Principles of Academic Integrity](http://academicintegrity.rutgers.edu) and the [Rutgers Department of Computer Science's Academic Integrity Policy](https://www.cs.rutgers.edu/academics/undergraduate/academic-integrity-policy)
